@@ -41,3 +41,7 @@ Use pivot tables and calculated columns where necessary to answer the following:
 15. 4. **Final Task: Dashboard Creation**
 Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your
 Creativity
+
+Tools to use
+.**MS Excel**
+For Data collection, cleaning and building an excel dashboard.
