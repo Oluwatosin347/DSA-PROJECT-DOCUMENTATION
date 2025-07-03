@@ -42,6 +42,6 @@ Use pivot tables and calculated columns where necessary to answer the following:
 Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your
 Creativity
 
-Tools to use
-.**MS Excel** [Download Here]{http.//ww.microsoft.com} 
+Tools to used
+.**MS Excel**  
 For Data collection, cleaning and building an excel dashboard.
