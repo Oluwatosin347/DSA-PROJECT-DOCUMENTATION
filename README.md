@@ -45,3 +45,6 @@ Creativity
 Tools to used
 .**MS Excel**  
 For Data collection, cleaning and building an excel dashboard.
+
+
+Note: I'm unable to complete my daashboard due to laptop issue, and i'm yet to get it fixed.My apology.
