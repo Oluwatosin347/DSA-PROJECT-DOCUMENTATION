@@ -53,6 +53,8 @@ Sort data to identify patterns and trends. Filter data to focus on specific subs
 Pivot Tables:
 Pivot tables are powerful tools for summarizing, grouping, and analyzing large datasets. They allow you to extract key information and identify relationships between different variables. 
 Charts:
-Use charts (bar, line, pie, etc.) to visualize your data and communicate your findings effectively. 
+Use charts (bar, line, pie, etc.) to visualize your data and communicate your findings effectively.
+
+ Dashboard Visuals
 
 ![WhatsApp Image 2025-07-07 at 17 15 50_e360b8bf](https://github.com/user-attachments/assets/fe096c6a-515a-4485-8b63-ebc6951fb255)
