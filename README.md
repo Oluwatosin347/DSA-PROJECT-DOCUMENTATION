@@ -55,6 +55,6 @@ Pivot tables are powerful tools for summarizing, grouping, and analyzing large d
 Charts:
 Use charts (bar, line, pie, etc.) to visualize your data and communicate your findings effectively.
 
- Dashboard Visuals
+ **Dashboard Visuals**
 
 ![WhatsApp Image 2025-07-07 at 17 15 50_e360b8bf](https://github.com/user-attachments/assets/fe096c6a-515a-4485-8b63-ebc6951fb255)
