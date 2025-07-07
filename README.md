@@ -48,10 +48,10 @@ For Data collection, cleaning and building an excel dashboard.
 
 1. Data Structure and Formatting
 2. Essential Analysis Tools:
-Sorting and Filtering:
-Sort data to identify patterns and trends. Filter data to focus on specific subsets of information. 
+Sorting and Filtering: Sort data to identify patterns and trends. Filter data to focus on specific subsets of information. 
 Pivot Tables:
-Pivot tables are powerful tools for summarizing, grouping, and analyzing large datasets. They allow you to extract key information and identify relationships between different variables. 
+Pivot tables are powerful tools for summarizing, grouping, and analyzing large datasets.
+They allow you to extract key information and identify relationships between different variables. 
 Charts:
 Use charts (bar, line, pie, etc.) to visualize your data and communicate your findings effectively.
 
