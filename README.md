@@ -46,7 +46,13 @@ Tools to used
 .**MS Excel**  
 For Data collection, cleaning and building an excel dashboard.
 
+1. Data Structure and Formatting
+2. Essential Analysis Tools:
+Sorting and Filtering:
+Sort data to identify patterns and trends. Filter data to focus on specific subsets of information. 
+Pivot Tables:
+Pivot tables are powerful tools for summarizing, grouping, and analyzing large datasets. They allow you to extract key information and identify relationships between different variables. 
+Charts:
+Use charts (bar, line, pie, etc.) to visualize your data and communicate your findings effectively. 
 
-Note: I'm unable to complete my daashboard due to laptop issue, and i'm yet to get it fixed.My apology.
-
-
+![WhatsApp Image 2025-07-07 at 17 15 50_e360b8bf](https://github.com/user-attachments/assets/fe096c6a-515a-4485-8b63-ebc6951fb255)
